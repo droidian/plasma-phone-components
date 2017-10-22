@@ -18,7 +18,7 @@ Build-Depends: cmake,
                plasma-framework-dev,
                qt5-default,
                qtdeclarative5-dev
-Standards-Version: 3.9.8
+Standards-Version: 4.1.1
 Homepage: https://plasma-mobile.org
 Vcs-Browser: https://github.com/plasma-phone-packaging/plasma-phone-components-packaging
 Vcs-Git: https://github.com/plasma-phone-packaging/plasma-phone-components-packaging.git
@@ -37,4 +37,4 @@ Depends: breeze-icon-theme,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: Plasma Phone Components
- This package contains the home screen for the phone.
+ Phone components for KDE Plasma.
