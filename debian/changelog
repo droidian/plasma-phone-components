@@ -1,4 +1,4 @@
-plasma-phone-components (0.7+git20171027-1) UNRELEASED; urgency=medium
+plasma-phone-components (0.7+git20171124-1) UNRELEASED; urgency=medium
 
   [ Jonathan Riddell ]
   * New snapshot
@@ -11,7 +11,7 @@ plasma-phone-components (0.7+git20171027-1) UNRELEASED; urgency=medium
   * Update to standards version 4.1.1 and compat level 10
   * Replace all dependencies on transitional packages
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 12 Jun 2015 21:06:34 +0200
+ -- JBBgameich <jbb.mail@gmx.de>  Fri, 24 Nov 2017 23:44:27 +0100
 
 plasma-phone-components (0.1+kubuntu1-0ubuntu1~ppaubuntu1) vivid; urgency=medium
 
