@@ -4,8 +4,8 @@ Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 XSBC-Original-Maintainer: Boudewijn Rempt <boud@valdyas.org>
 Build-Depends: cmake,
-               debhelper (>= 9),
-               extra-cmake-modules,
+               debhelper (>= 11),
+               extra-cmake-modules (>= 5.36.0),
                kwayland-dev,
                libkf5declarative-dev,
                libkf5notifications-dev,
@@ -16,7 +16,7 @@ Build-Depends: cmake,
                pkg-config,
                pkg-kde-tools (>= 0.9),
                plasma-framework-dev,
-               qt5-default,
+               qtbase5-dev,
                qtdeclarative5-dev
 Standards-Version: 4.1.3
 Homepage: https://plasma-mobile.org
