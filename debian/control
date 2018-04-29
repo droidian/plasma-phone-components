@@ -15,7 +15,7 @@ Build-Depends: cmake,
                libtelepathy-qt5-dev,
                pkg-config,
                pkg-kde-tools (>= 0.9),
-               plasma-framework-dev,
+               libkf5plasma-dev,
                qtbase5-dev,
                qtdeclarative5-dev
 Standards-Version: 4.1.3
