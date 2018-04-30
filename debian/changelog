@@ -1,4 +1,4 @@
-plasma-phone-components (0.7+git20180223-2) UNRELEASED; urgency=medium
+plasma-phone-components (0.7+git20180430-1) UNRELEASED; urgency=medium
 
   [ Jonathan Riddell ]
   * New snapshot
@@ -6,13 +6,13 @@ plasma-phone-components (0.7+git20180223-2) UNRELEASED; urgency=medium
   [ Bhushan Shah ]
   * Add kpeople-vcard as dep of plasma-phone-components
   
-  [ JBBgameich]
+  [ Jonah Brüchert ]
   * Update vcs-links
   * Update to standards version 4.1.1 and compat level 10
   * Replace all dependencies on transitional packages
   * Add dependency on qml-module-org-kde-activities and qml-module-org-kde-people
 
- -- JBBgameich <jbb.mail@gmx.de>  Fri, 05 Jan 2018 14:03:12 +0100
+ -- Jonah Brüchert <jbb@kaidan.im>  Mon, 30 Apr 2018 10:13:42 +0000
 
 plasma-phone-components (0.1+kubuntu1-0ubuntu1~ppaubuntu1) vivid; urgency=medium
 
