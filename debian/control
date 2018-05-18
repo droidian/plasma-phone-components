@@ -39,5 +39,6 @@ Depends: breeze-icon-theme,
          kpeople-vcard,
          ${misc:Depends},
          ${shlibs:Depends}
+Recommends: qml-module-ofono
 Description: Plasma Phone Components
  Phone components for KDE Plasma.
