@@ -10,12 +10,12 @@ Build-Depends: cmake,
                libkf5declarative-dev,
                libkf5notifications-dev,
                libkf5people-dev,
+               libkf5plasma-dev,
                libkf5service-dev,
                libsystemd-dev,
                libtelepathy-qt5-dev,
                pkg-config,
                pkg-kde-tools (>= 0.9),
-               libkf5plasma-dev,
                qtbase5-dev,
                qtdeclarative5-dev
 Standards-Version: 4.1.4
@@ -26,17 +26,17 @@ Vcs-Git: https://gitlab.com/debian-pm/plasma-phone-components.git
 Package: plasma-phone-components
 Architecture: any
 Depends: breeze-icon-theme,
+         fonts-oxygen,
+         kpeople-vcard,
          milou,
          plasma-workspace,
          powerdevil,
+         qml-module-org-kde-activities,
          qml-module-org-kde-kio,
          qml-module-org-kde-kirigami2,
          qml-module-org-kde-kquickcontrols,
-         qml-module-org-kde-activities,
          qml-module-org-kde-people,
          qml-module-qtquick-localstorage,
-         fonts-oxygen,
-         kpeople-vcard,
          ${misc:Depends},
          ${shlibs:Depends}
 Recommends: qml-module-ofono
