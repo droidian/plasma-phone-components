@@ -1,4 +1,4 @@
-plasma-phone-components (0.7+git20180430-1) UNRELEASED; urgency=medium
+plasma-phone-components (0.7+git20180711-1) UNRELEASED; urgency=medium
 
   [ Jonathan Riddell ]
   * New snapshot
@@ -8,11 +8,11 @@ plasma-phone-components (0.7+git20180430-1) UNRELEASED; urgency=medium
   
   [ Jonah Brüchert ]
   * Update vcs-links
-  * Update to standards version 4.1.1 and compat level 10
+  * Update to standards version 4.1.4 and compat level 11
   * Replace all dependencies on transitional packages
   * Add dependency on qml-module-org-kde-activities and qml-module-org-kde-people
 
- -- Jonah Brüchert <jbb@kaidan.im>  Mon, 30 Apr 2018 10:13:42 +0000
+ -- Jonah Brüchert <jbb@kaidan.im>  Wed, 11 Jul 2018 21:48:49 +0200
 
 plasma-phone-components (0.1+kubuntu1-0ubuntu1~ppaubuntu1) vivid; urgency=medium
 
