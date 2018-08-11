@@ -12,13 +12,14 @@ Build-Depends: cmake,
                libkf5people-dev,
                libkf5plasma-dev,
                libkf5service-dev,
+               libphonenumber-dev,
                libsystemd-dev,
                libtelepathy-qt5-dev,
                pkg-config,
                pkg-kde-tools (>= 0.9),
                qtbase5-dev,
                qtdeclarative5-dev
-Standards-Version: 4.1.4
+Standards-Version: 4.1.5
 Homepage: https://plasma-mobile.org
 Vcs-Browser: https://gitlab.com/debian-pm/plasma-phone-components
 Vcs-Git: https://gitlab.com/debian-pm/plasma-phone-components.git
