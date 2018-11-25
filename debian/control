@@ -29,6 +29,7 @@ Package: plasma-phone-components
 Architecture: any
 Depends: breeze-icon-theme,
          fonts-oxygen,
+         fonts-mplus,
          kpeople-vcard,
          milou,
          plasma-workspace,
