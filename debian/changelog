@@ -1,4 +1,4 @@
-plasma-phone-components (0.7+git20181114-1) UNRELEASED; urgency=medium
+plasma-phone-components (0.7+git20190204-1) UNRELEASED; urgency=medium
 
   [ Jonathan Riddell ]
   * New snapshot
@@ -13,7 +13,7 @@ plasma-phone-components (0.7+git20181114-1) UNRELEASED; urgency=medium
   * Add dependency on qml-module-org-kde-activities and qml-module-org-kde-people
   * Add dependency on libphonenumber-dev for phonenumber formatting in the dialer
 
- -- Jonah Brüchert <jbb@kaidan.im>  Wed, 14 Nov 2018 10:25:03 +0100
+ -- Jonah Brüchert <jbb@kaidan.im>  Mon, 04 Feb 2019 18:19:12 +0100
 
 plasma-phone-components (0.1+kubuntu1-0ubuntu1~ppaubuntu1) vivid; urgency=medium
 
