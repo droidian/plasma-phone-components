@@ -28,7 +28,6 @@ Vcs-Git: https://gitlab.com/debian-pm/plasma-mobile/plasma-phone-components.git
 Package: plasma-phone-components
 Architecture: any
 Depends: breeze-icon-theme,
-         fonts-oxygen,
          kpeople-vcard,
          milou,
          plasma-workspace,
