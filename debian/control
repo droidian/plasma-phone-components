@@ -41,5 +41,7 @@ Depends: breeze-icon-theme,
          ${misc:Depends},
          ${shlibs:Depends}
 Recommends: qml-module-ofono
-Description: Plasma Phone Components
- Phone components for KDE Plasma.
+Description: Phone components for KDE Plasma.
+ Plasma Phone Components provides a mobile user interface
+ based on KDE technology, and  tools providing
+ phone functionality, such as a dialer.

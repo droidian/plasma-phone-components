@@ -10,8 +10,10 @@ plasma-phone-components (0.7+git20190417-1) unstable; urgency=medium
   * Update vcs-links
   * Update to standards version 4.3.0 and compat level 11
   * Replace all dependencies on transitional packages
-  * Add dependency on qml-module-org-kde-activities and qml-module-org-kde-people
-  * Add dependency on libphonenumber-dev for phonenumber formatting in the dialer
+  * Add dependency on qml-module-org-kde-activities and
+    qml-module-org-kde-people
+  * Add dependency on libphonenumber-dev for phonenumber formatting
+    in the dialer
 
  -- Jonah Brüchert <jbb@kaidan.im>  Wed, 17 Apr 2019 21:21:57 +0200
 
