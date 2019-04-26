@@ -38,6 +38,7 @@ Depends: breeze-icon-theme,
          qml-module-org-kde-kquickcontrols,
          qml-module-org-kde-people,
          qml-module-qtquick-localstorage,
+         qml-module-qtquick-virtualkeyboard,
          ${misc:Depends},
          ${shlibs:Depends}
 Recommends: qml-module-ofono
