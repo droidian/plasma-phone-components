@@ -1,8 +1,8 @@
-plasma-phone-components (0.7+git20190501-1) UNRELEASED; urgency=medium
+plasma-phone-components (0.7+git20190501-1) unstable; urgency=medium
 
   * New snapshot
 
- -- Jonah Brüchert <jbb@kaidan.im>  Wed, 01 May 2019 13:09:42 +0200
+ -- Jonah Brüchert <jbb@kaidan.im>  Wed, 01 May 2019 13:11:33 +0200
 
 plasma-phone-components (0.7+git20190417-1) unstable; urgency=medium
 
