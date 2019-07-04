@@ -41,7 +41,7 @@ Depends: breeze-icon-theme,
          qml-module-qtquick-virtualkeyboard,
          ${misc:Depends},
          ${shlibs:Depends}
-Recommends: qml-module-ofono
+Recommends: kde-config-mobile-networking, plasma-settings, qml-module-ofono
 Description: Phone components for KDE Plasma.
  Plasma Phone Components provides a mobile user interface
  based on KDE technology, and  tools providing
