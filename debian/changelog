@@ -1,3 +1,9 @@
+plasma-phone-components (0.7+git20190501-2) UNRELEASED; urgency=medium
+
+  * Replace kwayland-dev with libkf5wayland-dev
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Mon, 19 Aug 2019 09:05:39 +0200
+
 plasma-phone-components (0.7+git20190501-1) unstable; urgency=medium
 
   * New snapshot
