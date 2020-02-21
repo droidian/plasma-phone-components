@@ -1,8 +1,14 @@
-plasma-phone-components (0.7+git20190501-2) UNRELEASED; urgency=medium
+plasma-phone-components (0.7+git20200221-1) UNRELEASED; urgency=medium
+
+  * New upstream snapshot
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Fri, 21 Feb 2020 23:52:48 +0100
+
+plasma-phone-components (0.7+git20190501-2) unstable; urgency=medium
 
   * Replace kwayland-dev with libkf5wayland-dev
 
- -- Jonah Brüchert <jbb@kaidan.im>  Mon, 19 Aug 2019 09:05:39 +0200
+ -- Jonah Brüchert <jbb@kaidan.im>  Fri, 24 Jan 2020 20:41:47 +0100
 
 plasma-phone-components (0.7+git20190501-1) unstable; urgency=medium
 
