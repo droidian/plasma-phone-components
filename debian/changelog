@@ -1,3 +1,9 @@
+plasma-phone-components (0.7+git20200221-2) UNRELEASED; urgency=medium
+
+  * Add dependency on plasma-nano
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sat, 22 Feb 2020 18:47:53 +0100
+
 plasma-phone-components (0.7+git20200221-1) unstable; urgency=medium
 
   * New upstream snapshot
