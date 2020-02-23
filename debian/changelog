@@ -1,3 +1,9 @@
+plasma-phone-components (0.7+git20200221-3) unstable; urgency=medium
+
+  * Add aptch to workaround plasma-framework bug
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sun, 23 Feb 2020 04:01:59 +0100
+
 plasma-phone-components (0.7+git20200221-2) unstable; urgency=medium
 
   * Add dependency on plasma-nano
