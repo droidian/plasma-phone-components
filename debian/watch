@@ -1,0 +1,2 @@
+version=4
+https://download.kde.org/unstable/plasma/([\d.]+)/@PACKAGE@-([\d.]+)\.tar\.xz
