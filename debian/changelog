@@ -1,3 +1,9 @@
+plasma-phone-components (5.18.90-1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sun, 05 Jul 2020 21:35:21 +0200
+
 plasma-phone-components (0.7+git20200221-3) unstable; urgency=medium
 
   * Add aptch to workaround plasma-framework bug

@@ -1,8 +1,7 @@
 Source: plasma-phone-components
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Section: kde
 Priority: optional
-Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-XSBC-Original-Maintainer: Boudewijn Rempt <boud@valdyas.org>
 Build-Depends: cmake,
                debhelper (>= 11),
                extra-cmake-modules (>= 5.36.0),
@@ -17,19 +16,20 @@ Build-Depends: cmake,
                libsystemd-dev,
                libtelepathy-qt5-dev,
                pkg-config,
-               pkg-kde-tools (>= 0.9),
+               pkg-kde-tools,
                qtbase5-dev,
                qtdeclarative5-dev
-Standards-Version: 4.3.0
-Homepage: https://plasma-mobile.org
+Standards-Version: 4.5.0
 Vcs-Browser: https://gitlab.com/debian-pm/plasma-mobile/plasma-phone-components
 Vcs-Git: https://gitlab.com/debian-pm/plasma-mobile/plasma-phone-components.git
+Homepage: https://plasma-mobile.org
+XSBC-Original-Maintainer: Boudewijn Rempt <boud@valdyas.org>
 
 Package: plasma-phone-components
 Architecture: any
 Depends: breeze-icon-theme,
-         fonts-oxygen,
          fonts-mplus,
+         fonts-oxygen,
          kpeople-vcard,
          milou,
          plasma-nano,
