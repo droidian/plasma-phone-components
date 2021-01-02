@@ -19,7 +19,7 @@ Build-Depends: cmake,
                pkg-kde-tools,
                qtbase5-dev,
                qtdeclarative5-dev
-Standards-Version: 4.5.0
+Standards-Version: 4.5.1
 Vcs-Browser: https://gitlab.com/debian-pm/plasma-mobile/plasma-phone-components
 Vcs-Git: https://gitlab.com/debian-pm/plasma-mobile/plasma-phone-components.git
 Homepage: https://plasma-mobile.org
