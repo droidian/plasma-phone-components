@@ -1,2 +1,3 @@
 version=4
-https://download.kde.org/stable/plasma/([\d.]+)/@PACKAGE@-([\d.]+)\.tar\.xz
+opts=pgpsigurlmangle=s/$/.sig/ \
+ https://download.kde.org/stable/plasma/([\d.]+)/@PACKAGE@-([\d.]+)\.tar\.xz
