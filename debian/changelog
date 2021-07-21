@@ -1,3 +1,9 @@
+plasma-phone-components (5.20.5-3) unstable; urgency=medium
+
+  * Add dependency on plasma-nm
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Wed, 21 Jul 2021 18:20:51 +0200
+
 plasma-phone-components (5.20.5-2) unstable; urgency=medium
 
   * Add dependency on plasma-workspace-wayland
