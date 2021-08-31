@@ -1,3 +1,9 @@
+plasma-phone-components (5.21.5-2) UNRELEASED; urgency=medium
+
+  * New changelog entry
+
+ -- GitLab CI <https://gitlab.com/debian-pm/tools/build>  Tue, 31 Aug 2021 12:35:37 +0000
+
 plasma-phone-components (5.21.5-1) unstable; urgency=medium
 
   * New upstream release
