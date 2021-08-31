@@ -1,8 +1,8 @@
-plasma-phone-components (5.21.5-1) UNRELEASED; urgency=medium
+plasma-phone-components (5.21.5-1) unstable; urgency=medium
 
   * New upstream release
 
- -- Jonah Brüchert <jbb@kaidan.im>  Tue, 31 Aug 2021 14:16:50 +0200
+ -- Jonah Brüchert <jbb@kaidan.im>  Tue, 31 Aug 2021 14:32:46 +0200
 
 plasma-phone-components (5.20.5-4) unstable; urgency=medium
 
