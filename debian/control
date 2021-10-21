@@ -5,6 +5,7 @@ Priority: optional
 Build-Depends: cmake,
                debhelper-compat (= 13),
                extra-cmake-modules (>= 5.36.0),
+               kwin-dev,
                libkf5declarative-dev,
                libkf5notifications-dev,
                libkf5plasma-dev,
