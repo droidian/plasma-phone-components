@@ -1,3 +1,9 @@
+plasma-phone-components (5.23.0-3) UNRELEASED; urgency=medium
+
+  * New changelog entry
+
+ -- GitLab CI <https://gitlab.com/debian-pm/tools/build>  Fri, 03 Dec 2021 14:09:39 +0000
+
 plasma-phone-components (5.23.0-2) unstable; urgency=medium
 
   * Add runtime dep on qml-module-org-kde-qqc2breezestyle
