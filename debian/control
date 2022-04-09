@@ -27,7 +27,8 @@ XSBC-Original-Maintainer: Boudewijn Rempt <boud@valdyas.org>
 
 Package: plasma-phone-components
 Architecture: any
-Depends: breeze-icon-theme,
+Depends: bluedevil,
+         breeze-icon-theme,
          fonts-mplus,
          fonts-oxygen,
          kpeople-vcard,
