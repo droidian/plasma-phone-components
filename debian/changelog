@@ -1,0 +1,162 @@
+plasma-phone-components (5.24.3-2) UNRELEASED; urgency=medium
+
+  * New changelog entry
+
+ -- GitLab CI <https://gitlab.com/debian-pm/tools/build>  Tue, 22 Mar 2022 23:12:19 +0000
+
+plasma-phone-components (5.24.3-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Wed, 23 Mar 2022 00:09:29 +0100
+
+plasma-phone-components (5.23.0+git20211205-1) unstable; urgency=medium
+
+  * New snapshot
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sun, 05 Dec 2021 00:30:20 +0100
+
+plasma-phone-components (5.23.0-2) unstable; urgency=medium
+
+  * Add runtime dep on qml-module-org-kde-qqc2breezestyle
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Fri, 03 Dec 2021 15:05:12 +0100
+
+plasma-phone-components (5.23.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Thu, 04 Nov 2021 21:46:47 +0100
+
+plasma-phone-components (5.21.5-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Tue, 31 Aug 2021 14:32:46 +0200
+
+plasma-phone-components (5.20.5-4) unstable; urgency=medium
+
+  * Add runtime dependencies on qml-module-org-kde-bluezqt and plasma-pa
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Thu, 29 Jul 2021 00:29:21 +0200
+
+plasma-phone-components (5.20.5-3) unstable; urgency=medium
+
+  * Add dependency on plasma-nm
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Wed, 21 Jul 2021 18:20:51 +0200
+
+plasma-phone-components (5.20.5-2) unstable; urgency=medium
+
+  * Add dependency on plasma-workspace-wayland
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sun, 07 Feb 2021 04:19:24 +0100
+
+plasma-phone-components (5.20.5-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Fri, 05 Feb 2021 14:29:38 +0100
+
+plasma-phone-components (5.20.4-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sun, 03 Jan 2021 00:16:41 +0100
+
+plasma-phone-components (5.19.5-1) unstable; urgency=medium
+
+  *  New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Thu, 10 Dec 2020 12:36:40 +0100
+
+plasma-phone-components (5.18.90-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sun, 05 Jul 2020 21:39:13 +0200
+
+plasma-phone-components (0.7+git20200221-3) unstable; urgency=medium
+
+  * Add aptch to workaround plasma-framework bug
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sun, 23 Feb 2020 04:01:59 +0100
+
+plasma-phone-components (0.7+git20200221-2) unstable; urgency=medium
+
+  * Add dependency on plasma-nano
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sat, 22 Feb 2020 18:48:10 +0100
+
+plasma-phone-components (0.7+git20200221-1) unstable; urgency=medium
+
+  * New upstream snapshot
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sat, 22 Feb 2020 00:50:56 +0100
+
+plasma-phone-components (0.7+git20190501-2) unstable; urgency=medium
+
+  * Replace kwayland-dev with libkf5wayland-dev
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Fri, 24 Jan 2020 20:41:47 +0100
+
+plasma-phone-components (0.7+git20190501-1) unstable; urgency=medium
+
+  * New snapshot
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Wed, 01 May 2019 13:11:33 +0200
+
+plasma-phone-components (0.7+git20190417-1) unstable; urgency=medium
+
+  [ Jonathan Riddell ]
+  * New snapshot
+
+  [ Bhushan Shah ]
+  * Add kpeople-vcard as dep of plasma-phone-components
+  
+  [ Jonah Brüchert ]
+  * Update vcs-links
+  * Update to standards version 4.3.0 and compat level 11
+  * Replace all dependencies on transitional packages
+  * Add dependency on qml-module-org-kde-activities and
+    qml-module-org-kde-people
+  * Add dependency on libphonenumber-dev for phonenumber formatting
+    in the dialer
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Wed, 17 Apr 2019 21:21:57 +0200
+
+plasma-phone-components (0.1+kubuntu1-0ubuntu1~ppaubuntu1) vivid; urgency=medium
+
+  * Follow green island
+
+ -- Boudewijn Rempt <boud@kde.org>  Tue, 03 Mar 2015 13:23:38 +0000
+
+plasma-phone-components (0.1+kubuntu1-0ubuntu1~ppa) vivid; urgency=medium
+
+  * bump for Qt 5.4 
+
+ -- Boudewijn Rempt <boud@kde.org>  Tue, 24 Feb 2015 09:19:17 +0000
+
+plasma-phone-components (0.1+kubuntu1-0ubuntu1~ppaubuntu3) vivid; urgency=medium
+
+  * add systemd to the build depds 
+
+ -- Boudewijn Rempt <boud@kde.org>  Wed, 11 Feb 2015 17:32:07 +0100
+
+plasma-phone-components (0.1+kubuntu1-0ubuntu1~ppaubuntu2) vivid; urgency=medium
+
+  * Try again 
+
+ -- Boudewijn Rempt <boud@kde.org>  Wed, 11 Feb 2015 17:25:39 +0100
+
+plasma-phone-components (0.1+kubuntu1-0ubuntu1~ppaubuntu1) vivid; urgency=medium
+
+  * Add system dependency
+
+ -- Boudewijn Rempt <boud@kde.org>  Wed, 11 Feb 2015 17:21:00 +0100
+
+plasma-phone-components (0.1+kubuntu1-0ubuntu1~ppa) vivid; urgency=medium
+
+  * Initial release. 
+
+ -- Boudewijn Rempt <boud@kde.org>  Thu, 05 Feb 2015 11:07:11 +0100

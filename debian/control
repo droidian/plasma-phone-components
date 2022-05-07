@@ -1,0 +1,59 @@
+Source: plasma-phone-components
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Section: kde
+Priority: optional
+Build-Depends: cmake,
+               debhelper-compat (= 13),
+               extra-cmake-modules (>= 5.36.0),
+               kwin-dev,
+               libkf5declarative-dev,
+               libkf5networkmanagerqt-dev,
+               libkf5notifications-dev,
+               libkf5plasma-dev,
+               libkf5service-dev,
+               libkf5wayland-dev,
+               libphonenumber-dev,
+               libsystemd-dev,
+               modemmanager-qt-dev,
+               pkg-config,
+               pkg-kde-tools,
+               qtbase5-dev,
+               qtdeclarative5-dev
+Standards-Version: 4.5.1
+Vcs-Browser: https://gitlab.com/debian-pm/plasma-mobile/plasma-phone-components
+Vcs-Git: https://gitlab.com/debian-pm/plasma-mobile/plasma-phone-components.git
+Homepage: https://plasma-mobile.org
+XSBC-Original-Maintainer: Boudewijn Rempt <boud@valdyas.org>
+
+Package: plasma-phone-components
+Architecture: any
+Depends: bluedevil,
+         breeze-icon-theme,
+         fonts-mplus,
+         fonts-oxygen,
+         kpeople-vcard,
+         maliit-keyboard,
+         milou,
+         plasma-nano,
+         plasma-nm,
+         plasma-pa,
+         plasma-phone-settings,
+         plasma-workspace,
+         plasma-workspace-wayland,
+         powerdevil,
+         qml-module-org-kde-activities,
+         qml-module-org-kde-bluezqt,
+         qml-module-org-kde-kio,
+         qml-module-org-kde-kirigami2,
+         qml-module-org-kde-kquickcontrols,
+         qml-module-org-kde-people,
+         qml-module-org-kde-qqc2breezestyle,
+         qml-module-qtquick-localstorage,
+         xdg-desktop-portal-kde,
+         ${misc:Depends},
+         ${shlibs:Depends}
+Recommends: kde-config-mobile-networking, plasma-settings, qml-module-ofono
+Description: Phone components for KDE Plasma.
+ Plasma Phone Components provides a mobile user interface
+ based on KDE technology, and  tools providing
+ phone functionality, such as a dialer.
