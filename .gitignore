@@ -17,3 +17,6 @@ build
 
 .kdev4/
 *.kdev4
+
+# Added by Droidian
+!.circleci/
